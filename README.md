@@ -1,5 +1,11 @@
 # Sistema Bancário V1 Python
 
+
+## Objetivo Geral
+
+Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
+
+
 ## Desafio
 
 Fomos contratados por um grande banco para desenvolver o seu novo sistema. 
